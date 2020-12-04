@@ -1,0 +1,23 @@
+.division {
+  text-align: center;
+  border-radius: 12px;
+}
+.title {
+  color: orangered;
+  text-align: center;
+}
+.title2 {
+  color: brown;
+}
+.img1 {
+  border-radius: 12px;
+}
+.img2 {
+  border-radius: 12px;
+}
+.vid {
+  border-radius: 10px;
+}
+.division {
+  background-color: rgb(170, 142, 104);
+}
